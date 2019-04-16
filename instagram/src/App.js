@@ -25,7 +25,7 @@ class App extends Component {
         <div>
           <Container postData={this.state.postData} />
         </div>
-        <div className="class sample">test</div>
+        <div className="class sample">test </div>
 
         {/* <div><ComContainer /></div> */}
       </div>
